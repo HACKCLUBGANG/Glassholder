@@ -13,7 +13,6 @@ This is a glass holder that holds 3 glasses at a time.
 
 # BOM
 
-<img width="1308" height="539" alt="image" src="https://github.com/user-attachments/assets/cb6eee77-afd5-405e-8eeb-2cd60269f057" />
 
 | Item | File       | Price (USD) |
 |------|------------|-------------|
