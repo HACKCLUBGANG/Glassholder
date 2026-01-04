@@ -15,4 +15,13 @@ This is a glass holder that holds 3 glasses at a time.
 
 <img width="1308" height="539" alt="image" src="https://github.com/user-attachments/assets/cb6eee77-afd5-405e-8eeb-2cd60269f057" />
 
+| Item | File       | Price (USD) |
+|------|------------|-------------|
+| 1    | right.step | 9.02        |
+| 2    | left.step  | 9.02        |
+|      | Shipping   | 14.08       |
+|      | Coupon     | -9.00       |
+|      | **Total**  | **23.12**   |
+
+
 
