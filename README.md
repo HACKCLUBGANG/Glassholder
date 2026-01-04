@@ -17,11 +17,10 @@ This is a glass holder that holds 3 glasses at a time.
 
 | Item | File       | Price (USD) |
 |------|------------|-------------|
-| 1    | right.step | 9.02        |
-| 2    | left.step  | 9.02        |
-|      | Shipping   | 14.08       |
-|      | Coupon     | -9.00       |
-|      | **Total**  | **23.12**   |
+| 1    | right.step |      0      |
+| 2    | left.step  |      0      |
+|      | Shipping   |      15     |
+|      | **Total**  |      15     |
 
 
 
